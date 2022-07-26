@@ -35,7 +35,16 @@ ____
   
 <img src="images/coh_sep_align.gif" width="600">   
  
-____
+____   
+
+How to run code ?  
+```
+  make install
+```
+and then;
+```
+  python main.py
+```
 
 ## References
 * Computer Graphics, Principles and Practice by Foley, van Dam, Feiner and Hughes, Addison Wesley 1990  
